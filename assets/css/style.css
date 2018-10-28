@@ -1,0 +1,44 @@
+body {
+
+    margin: 10;
+    width: 960px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #007bff !important;
+}
+h2 {
+    
+    color:white !important;
+    padding: 0px !important;
+}
+.inlist {
+    border: olive !important;
+    background-color: greenyellow !important;
+    color: black !important;
+    font-family:cursive;
+}
+.crystals {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.crystalOne {
+    border:1px solid green;
+    height: 178px;
+    width: 178px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+
+.crystalOne:hover {
+    box-shadow: 15px 15px 15px rgda(00,0,0.5);
+    transform: translate(5px,80px);
+    cursor: pointer;
+    transition: box-shadow 1s,transform 2s;
+}
+
+imag{
+    width: 50px;
+    }
