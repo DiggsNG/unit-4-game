@@ -8,3 +8,5 @@ The game will restart when the user wins or loses.
 
  Pseudo code was used to develop the initial logic for the game. Once the logic was in place, I determined how HTML and CSS would be used to configure the solution page. I set up variables that were used to load results from jQuery into the Documents Object Model (DOM).
 
+- [Screen One](https://github.com/DiggsNG/unit-4-game/blob/master/images/Crystal01.PNG)
+- [Screen Two](https://github.com/DiggsNG/unit-4-game/blob/master/images/Crystal02.PNG)
